@@ -1,5 +1,5 @@
-sklearn
 numpy
+sklearn
 pandas
 altair
 streamlit
