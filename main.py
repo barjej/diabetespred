@@ -41,7 +41,7 @@ st.title('Prediksi Diagnostik Penyakit Diabetes')
 
 aboutdata=("""
     <p style="text-align: justify;">
-    Kumpulan data ini berasal dari <i>National Institute of Diabetes and Digestive and Kidney Diseases</i>. Tujuan dari kumpulan data ini adalah untuk memprediksi secara <b>diagnostik</b> apakah seorang pasien menderita diabetes, berdasarkan pengukuran diagnostik tertentu yang termasuk dalam kumpulan data. Beberapa batasan ditetapkan pada pemilihan instance ini dari database yang lebih besar. Secara khusus, semua pasien di sini adalah perempuan berusia minimal 21 tahun keturunan India. 2 Dari kumpulan data dalam File (.csv) dapat ditemukan beberapa variabel, beberapa di antaranya independent (beberapa variabel prediktor medis) dan hanya satu variabel dependent target (Hasil/<i>Outcome</i>).
+    Kumpulan data ini berasal dari <i>National Institute of Diabetes and Digestive and Kidney Diseases</i>. Tujuan dari kumpulan data ini adalah untuk memprediksi secara <b>diagnostik</b> apakah seorang pasien menderita diabetes, berdasarkan pengukuran diagnostik tertentu yang termasuk dalam kumpulan data. 2 Dari kumpulan data dalam File (.csv) dapat ditemukan beberapa variabel, beberapa di antaranya independent (beberapa variabel prediktor medis) dan hanya satu variabel dependent target (Hasil/<i>Outcome</i>).
     </p>
 """)
 
